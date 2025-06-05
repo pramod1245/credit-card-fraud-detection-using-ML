@@ -6,6 +6,8 @@
 
 ## Preview
 
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/pramodpawar/fakeShield)
+
 ![image](https://github.com/RaimbekovA/credit_card_fraud_detection_using_machine_learning/assets/63358961/88268d33-5dff-4136-945b-347c97159900)
 
 ![image](https://github.com/RaimbekovA/credit_card_fraud_detection_using_machine_learning/assets/63358961/30c96f40-5119-4e4b-bf12-1ff0572008ef)
