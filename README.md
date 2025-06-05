@@ -6,7 +6,7 @@
 
 ## Preview
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)]([https://github.com/pramod1245/credit-card-fraud-detection-using-ML])
+ [![GitHub][https://github.com/pramod1245/credit-card-fraud-detection-using-ML](https://github.com/pramod1245/credit-card-fraud-detection-using-ML)
 
 ![image](https://github.com/RaimbekovA/credit_card_fraud_detection_using_machine_learning/assets/63358961/88268d33-5dff-4136-945b-347c97159900)
 
